@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list-nodejs-thi-code",
+  "version": "1.0.0",
+  "description": "Projeto para ensinar Nodejs MVC no YouTube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Thi Code",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
